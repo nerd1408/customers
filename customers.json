@@ -1,0 +1,29 @@
+[{
+"id":1,
+"name": "Brian Nkwera" ,
+"phone":" 1111-1134-123"
+
+
+},
+
+{
+     "id":2,
+    "name": "Rahim Hassan" ,
+    "phone":" 222-1134-123"  
+}
+,
+
+{
+"id":3,
+"name": "Peter Jidamava" ,
+"phone":" 233-1134-123"
+}
+,
+
+{
+    "id":4,
+    "name": "Karim Muya" ,
+    "phone":" 2354-1134-123"  
+}
+
+]
